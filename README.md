@@ -1,6 +1,6 @@
 ### Hi, welcome to my Github 👋
 
-⚡*Frontend Developer 
+⚡*Software Developer 
 ⚡Sports Lovers, especially soccer*😍
 
 🔭 I’m currently looking for employment.
